@@ -261,7 +261,7 @@ function play(guild, song) {
     serverQueue.textChannel.send({
         embed: {
             color: "BLUE",
-            description: `🎶  **|**  Start Playing: **\`${song.title}\`**`
+            description: `🎶 Bot Made By @8awv  **|**  Start Playing: **\`${song.title}\`**`
         }
     });
 }
